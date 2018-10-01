@@ -12,7 +12,7 @@
 
 > A cross-platform desktop app for editing your photos in possible ways. Editing includes applying filters, resizing, cropping, scribbling, adding text, etc. You can also add face filters just like the one from Instagram or Snapchat.
 
-[Kumar Arunav] (https://github.com/kumararunav)
+* [Kumar Arunav] (https://github.com/kumararunav)
 
 > A notice Board Application based on Android for the HOD of CSE DEPT. for sending a text/whatsapp message to all the faculties members at once(in a single click)
 
